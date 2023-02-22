@@ -1,0 +1,10 @@
+.container{
+    border: dotted 2px;
+    border-color: chartreuse;
+}
+.text{
+    margin: 5%;
+    padding: 20px;
+    border: solid black;
+    font-size: xx-large;
+}
